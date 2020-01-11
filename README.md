@@ -1,39 +1,44 @@
 # Aotu Role Automatic Generation Site
 
 #### 介绍
-{**以下是码云平台说明，您可以替换此简介**
-码云是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+
+本项目是送给各位凹凸世界迷的小礼物～
+基于某大佬开发的凹凸世界作画AI（待那位大佬上传到托管平台就会放出项目链接）
+本项目已经得到原作者的授权，并与原作者以相同的授权协议开放源代码
+官方演示站点：[http://arags.acg.ghink.net](https://arags.acg.ghink.net)
 
 #### 软件架构
-软件架构说明
+
+本项目使用Google的Tensorflow进行渲染
+基于NVIDIA的CUDA计算与GAN生成对抗网络开发
+使用Python进行核心部分开发
 
 
-#### 安装教程
+#### 硬件要求
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  任意NVIDIA旗下支持CUDA计算的显卡
+2.  主频高于2.0GHz的中央处理器
+3.  大于等于8GB的运行内存
+4.  不小于10MB/s读取速度的存储设备
 
-#### 使用说明
+示范：
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  GTX660/2G
+2.  E3-1230v3
+3.  16G/DDR3
+4.  西部数据Blue/2TB
+
+#### 安装过程
+
+1.  安装您的显卡对应的驱动程序（NVIDIA官网下载）
+2.  安装本项目内的CUDAAPI包
+3.  将本项目目内的cudnnlib包解压缩后放入CUDA安装目录内
+4.  安装Python
+5.  通过pip安装tensorflow_gpu-1.14.0（注意版本！1.14.0）
+6.  通过pip安装numpy
+7.  通过pip安装pillow
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  咕枣Rand（rand0mz）
+2.  Bigsk（bigskcode）
