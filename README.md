@@ -35,6 +35,16 @@
 3.  16G/DDR3
 4.  西部数据Blue/2TB
 
+#### 环境要求
+
+1.  Windows操作系统（推荐Windows10）
+2.  完整安装的NVIDIA显卡驱动
+3.  完整安装的已经安装了cudnn的我们提供的CUDA API程序
+4.  完整安装的Python
+5.  完整安装的Python-tensorflow_gpu-1.14.0
+6.  完整安装的Python-numpy
+7.  完整安装的Python-pillow
+
 #### 安装过程
 
 1.  安装您的显卡对应的驱动程序（NVIDIA官网下载）
