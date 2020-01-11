@@ -8,7 +8,7 @@
 
 本项目已经得到原作者的授权，并与原作者以相同的授权协议开放源代码
 
-官方演示站点：[http://arags.acg.ghink.net](https://arags.acg.ghink.net)
+官方演示站点：[https://arags.acg.ghink.net](https://arags.acg.ghink.net)
 
 本项目适合有一定计算机基础并且愿意折腾动手的小伙伴，如果只是为了下载QQ头像（误），我们的官方网站每周都会生成新的画作，可以直接前往下载哦
 
